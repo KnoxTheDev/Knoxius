@@ -1,5 +1,5 @@
 # Knoxius
 The entirety of Knoxy's scripts.
-```Lua
-https://raw.githubusercontent.com/KnoxTheDev/Knoxius/refs/heads/main/Universal/Script.lua
+```LuaU
+loadstring(game:HttpGet("https://raw.githubusercontent.com/KnoxTheDev/Knoxius/refs/heads/main/Universal/Script.lua"))()
 ```
